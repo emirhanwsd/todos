@@ -4,15 +4,16 @@ A basic Todo app what made with [React](https://github.com/facebook/react) and [
 
 ## Introduction
 
-I am learning React recently so this project is not complex like others. I just used these structures. 
+I am learning React recently so this project is not complex like others. I just used these structures:
 
  - States
  - Components
 
 ## Installation
 
-Open project and use this command in your terminal.
+Open project and use these commands in your terminal:
 
+    npm install
     npm start
 
 ## Features
