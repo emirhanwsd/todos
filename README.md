@@ -14,6 +14,7 @@ I am learning React recently so this project is not complex like others. I just 
 Open project and use these commands in your terminal:
 
     npm install
+    
     npm start
 
 ## Features
